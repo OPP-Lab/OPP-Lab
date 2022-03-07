@@ -1,22 +1,13 @@
 # OPP-Lab
 
-
-### 🌊🌊안녕하세요 저희는 꿈을 향해 달리는 부경대학교 해양역학예측연구실 입니다🌊🌊  
-
 Hello, we are OPP-Lab which run toward our dreams!
-
-
-
-
-
-
 
 
 
 #### 연구분야 
 
-1. 자료동화 (Data Assimilation)
-2. 수치모델 (Numerical Model)
+1. 해양자료동화 (Ocean Data Assimilation)
+2. 해양예측 및 기후예측 모델링 (Ocean prediction and Climate modelling)
 3. 인공지능 (Artificial Intelligence)
 
 
