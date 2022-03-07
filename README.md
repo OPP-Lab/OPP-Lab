@@ -1,6 +1,6 @@
 # OPP-Lab
 
-Hello, we are OPP-Lab which run toward our dreams!
+Hello, we are OPP-Lab !
 
 
 
