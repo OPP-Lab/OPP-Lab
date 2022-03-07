@@ -3,7 +3,7 @@
 
 ### 🌊🌊안녕하세요 저희는 꿈을 향해 달리는 부경대학교 해양역학예측연구실 입니다🌊🌊  
 
-
+Hello, we are OPP-Lab which run toward our dreams!
 
 
 
@@ -15,9 +15,9 @@
 
 #### 연구분야 
 
-1. 자료동화
-2. 모델
-3. 인공지능  
+1. 자료동화 (Data Assimilation)
+2. 모델     (Model)
+3. 인공지능 (Artificial Intelligence)
 
 
 
