@@ -30,15 +30,10 @@
 
 
 ##### Our Language
-
-
 <img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Fortran-3DDC84?style=flat-square&logo=Fortran&logoColor=black"/>
 
 
-
-
 ##### Tool
-
 <img src="https://img.shields.io/badge/Anaconda-brightbreen?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Vscode-blueviolet?style=flat-square&logo=Vscode&logoColor=white"/>
 
 
