@@ -6,8 +6,8 @@ Hello, we are OPP-Lab !
 
 #### 연구분야 
 
-1. 해양자료동화 (Ocean Data Assimilation)
-2. 해양예측 및 기후예측 모델링 (Ocean prediction and Climate modelling)
+1. 해양자료동화 (Ocean data assimilation)
+2. 해양예측 및 기후예측 모델링 (Ocean prediction and climate modelling)
 3. 인공지능 (Artificial Intelligence)
 
 
