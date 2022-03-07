@@ -9,6 +9,5 @@
 Our Language
 
 
-<img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Fortran-3DDC84?style=flat-square&logo=Fortran&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-FFCA28?style=flat-square&logo=Python&logoColor=white"/>  <img src="https://img.shields.io/badge/Fortran-3DDC84?style=flat-square&logo=Fortran&logoColor=black"/>
 
