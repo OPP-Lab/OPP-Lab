@@ -35,7 +35,7 @@
 
 
 ##### Tool
-<img src="https://img.shields.io/badge/Anaconda-brightbreen?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStuidoCode-blueviolet?style=flat-square&logo=VisualStuidoCode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Anaconda-brightbreen?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-blueviolet?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 
 
 
