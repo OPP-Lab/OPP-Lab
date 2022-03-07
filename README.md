@@ -16,7 +16,7 @@ Hello, we are OPP-Lab which run toward our dreams!
 #### 연구분야 
 
 1. 자료동화 (Data Assimilation)
-2. 모델     (Model)
+2. 수치모델 (Numerical Model)
 3. 인공지능 (Artificial Intelligence)
 
 
