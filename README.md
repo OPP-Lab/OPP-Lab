@@ -1,6 +1,6 @@
 # OPP-Lab
 
-### Hello, we are OPP-Lab !
+### Hello, we are OPP-Lab (Ocean Physics & Prediction Lab)!
 
 Ocean Data Always with us
 
