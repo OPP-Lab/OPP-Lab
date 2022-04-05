@@ -32,5 +32,5 @@ Ocean Data Always with us
 
 
 
-OPP Lab is affiliated with the Division of Earth Environmental System Science (Major of Oceanography) of the Pukyong National University.
+OPP Lab belongs to the Division of Earth Environmental System Science (Major of Oceanography) at the Pukyong National University.
 
