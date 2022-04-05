@@ -2,7 +2,6 @@
 
 ### Hello, we are OPP-Lab (Ocean Physics & Prediction Lab)!
 
-OPP Lab is affiliated with the Division of Earth Environmental System Science (Major of Oceanography) of the Pukyong National University.
 Ocean Data Always with us
 
 
@@ -32,4 +31,6 @@ Ocean Data Always with us
 <img src="https://img.shields.io/badge/Anaconda-brightbreen?style=flat-square&logo=Anaconda&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-orange?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/VisualStudioCode-blueviolet?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
 
 
+
+OPP Lab is affiliated with the Division of Earth Environmental System Science (Major of Oceanography) of the Pukyong National University.
 
