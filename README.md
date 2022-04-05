@@ -34,5 +34,5 @@ Ocean Data Always with us
 
 OPP Lab belongs to the Division of Earth Environmental System Science (Major of Oceanography) at the Pukyong National University.
 
-Professor : Youngho KIM
+Professor : Young Ho KIM
 
